@@ -1,2 +1,2 @@
-## Hello git
-- I'm adding this from another branch
+## Welcome to merge conflict
+- this comes from dev-micheal
